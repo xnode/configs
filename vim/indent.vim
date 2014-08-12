@@ -1,3 +1,4 @@
+" indent config
 set autoindent
 set tabstop=2
 set softtabstop=2
