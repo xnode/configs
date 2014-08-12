@@ -1,6 +1,7 @@
-set autoindent smartindent
-set smarttab
+set autoindent
 set tabstop=2
 set softtabstop=2
 set shiftwidth=2
-set noexpandtab
+set expandtab
+
+filetype plugin indent on
