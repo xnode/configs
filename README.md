@@ -24,4 +24,6 @@ cd $HOME/.vim/colors
 curl -O https://raw.githubusercontent.com/nanotech/jellybeans.vim/master/colors/jellybeans.vim
 ```
 
+In addition YouCompleteMe and Tern need their own installations.
+
 Many things could of course beautomated and jellbeans could be use as git submodule.
