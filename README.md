@@ -27,3 +27,13 @@ curl -O https://raw.githubusercontent.com/nanotech/jellybeans.vim/master/colors/
 In addition YouCompleteMe and Tern need their own installations.
 
 Many things could of course beautomated and jellbeans could be use as git submodule.
+
+Git
+==========
+
+Include gitconfig in .gitconfig
+
+```
+[include]
+  path = ~/configs/git/gitconfig
+```
