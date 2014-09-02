@@ -1,0 +1,5 @@
+[alias]
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+  unpushed = log --stat @{u}..HEAD
+  gg = grep --break --heading -n
+
