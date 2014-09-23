@@ -20,5 +20,6 @@ set completeopt-=preview
 Bundle 'marijnh/tern_for_vim'
 Bundle 'kien/ctrlp.vim'
 
+Plugin 'fatih/vim-go'
 call vundle#end()
 
