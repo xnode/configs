@@ -37,3 +37,11 @@ Include gitconfig in .gitconfig
 [include]
   path = ~/configs/git/gitconfig
 ```
+
+Tmux
+========
+
+```
+brew install reattach-to-user-namespace
+ln -s configs/tmux/tmux.conf .tmux.conf
+```
