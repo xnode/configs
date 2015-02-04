@@ -21,5 +21,10 @@ Bundle 'marijnh/tern_for_vim'
 Bundle 'kien/ctrlp.vim'
 
 Plugin 'fatih/vim-go'
+
+Bundle 'chase/vim-ansible-yaml'
+
+Bundle 'dhruvasagar/vim-dotoo'
+
 call vundle#end()
 
